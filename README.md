@@ -5,7 +5,7 @@ Pro-Tracking Solution Board is an ecosystem friendly onboard tracking technology
 PRO TRACKER SYSTEM
 ABSTRACT:
 The research is about creating a system for tracking vehicle, driver and products. Objective of the research is to design, develop and develop a GPS based
-Tracking System in order to monitor and display location of vehicle on Google Maps and Other Dashboards. This system used STM32F411CEU6 as a microcontroller and it will be used as the main processing unit. Next, SIM7600E 4G LTE GSM/GPS module is used for network connectivity, routing the coordinate and connecting with the user.
+Tracking System in order to monitor and display location of vehicle on Google Maps and Other Dashboards. This system used ATMEGA328 as a microcontroller and it will be used as the main processing unit. Next, SIM7600E 4G LTE GSM/GPS module is used for network connectivity, routing the coordinate and connecting with the user.
 
 INTRODUCTION
 	Pro-Tracker Solution Board is an ecosystem friendly onboard tracking technology and multi-functional development board based on SIM7600E module that supports 4G network and  also support 2G/3G network communications, controlled by STM32 microcontroller, designed to meet the requirements of embedded systems, vehicles/general tracking, providing a comprehensive set of features and peripherals on a single board for DIY project kits. 
